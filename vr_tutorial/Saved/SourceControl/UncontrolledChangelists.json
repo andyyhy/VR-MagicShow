@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Half_Ham_tgemdaapa/MI_Half_Ham_tgemdaapa_2K.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Curtain.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Curtain/Curtain.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Curtain/red_curtain.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/IsCurtain.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Blueprints/MagicShowGameState.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Blueprints/IsCurtain.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/429422__zeraora__audience-clapping.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Blueprints/BPAudienceMember.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/IsAudience.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Roasted_Chicken_Leg_wd5ffbnaa/S_Roasted_Chicken_Leg_wd5ffbnaa_lod3_Var1.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Roasted_Piglet_wdzmcjeaa/S_Roasted_Piglet_wdzmcjeaa_lod3.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Half_Avocado_ujcxeblva/S_Half_Avocado_ujcxeblva_lod3_Var1.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Donut_vcbjfbu/S_Donut_vcbjfbu_lod3_Var1.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Half_Avocado_ujbjdalva/S_Half_Avocado_ujbjdalva_lod3_Var1.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Half_Ham_tgemdaapa/S_Half_Ham_tgemdaapa_lod3.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Blueprints/IsAudience.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/Wand.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_albedo.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_AO.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_normal.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_roughness.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_albedo_Mat.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_AO_Mat.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_normal_Mat.uasset",
+				"C:/Users/andyyhy/EECS498VR/vr_tutorial/Content/Megascans/3D_Assets/Wand/DefaultMaterial_roughness_Mat.uasset"
+			]
+		}
+	]
+}

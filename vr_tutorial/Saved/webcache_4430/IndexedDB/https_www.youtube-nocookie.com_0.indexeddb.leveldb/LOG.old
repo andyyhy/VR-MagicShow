@@ -1,0 +1,6 @@
+2023/09/06-17:13:25.872 374c Creating DB C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/06-17:13:25.883 374c Reusing MANIFEST C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/06-17:16:53.405 20a0 Level-0 table #5: started
+2023/09/06-17:16:53.409 20a0 Level-0 table #5: 1167 bytes OK
+2023/09/06-17:16:53.412 20a0 Delete type=0 #3
+2023/09/06-17:16:53.413 20a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
