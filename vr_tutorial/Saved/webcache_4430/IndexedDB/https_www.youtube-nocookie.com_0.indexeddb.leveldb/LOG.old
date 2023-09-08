@@ -1,6 +1,8 @@
-2023/09/06-17:13:25.872 374c Creating DB C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/09/06-17:13:25.883 374c Reusing MANIFEST C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/06-17:16:53.405 20a0 Level-0 table #5: started
-2023/09/06-17:16:53.409 20a0 Level-0 table #5: 1167 bytes OK
-2023/09/06-17:16:53.412 20a0 Delete type=0 #3
-2023/09/06-17:16:53.413 20a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/06-19:41:23.980 33bc Reusing MANIFEST C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/06-19:41:23.981 33bc Recovering log #4
+2023/09/06-19:41:23.982 33bc Reusing old log C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/09/06-19:42:28.099 15ec Level-0 table #8: started
+2023/09/06-19:42:28.100 15ec Level-0 table #8: 0 bytes OK
+2023/09/06-19:42:28.103 15ec Delete type=0 #4
+2023/09/06-19:42:28.104 15ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/06-19:42:28.104 15ec Manual compaction at level-1 from (begin) .. (end); will stop at (end)
