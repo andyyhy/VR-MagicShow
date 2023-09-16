@@ -1,0 +1,8 @@
+2023/09/07-21:21:31.133 2b94 Reusing MANIFEST C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/07-21:21:31.134 2b94 Recovering log #7
+2023/09/07-21:21:31.135 2b94 Reusing old log C:/Users/andyyhy/EECS498VR/vr_tutorial/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/09/07-21:22:15.106 3940 Level-0 table #11: started
+2023/09/07-21:22:15.106 3940 Level-0 table #11: 0 bytes OK
+2023/09/07-21:22:15.110 3940 Delete type=0 #7
+2023/09/07-21:22:15.110 3940 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/07-21:22:15.111 3940 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
